@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/luoxuanwan"
+            android:title="螺旋丸" />
+        <item
+            android:id="@+id/yingfenshen"
+            android:title="影分身" />
+        <item
+            android:id="@+id/shoulijian"
+            android:title="手里剑" />
+    </group>
+    <item android:title="技能">
+        <menu>
+            <item
+                android:id="@+id/modle"
+                android:title="仙人模式" />
+            <item
+                android:id="@+id/tongling"
+                android:title="通灵兽" />
+        </menu>
+    </item>
+</menu>

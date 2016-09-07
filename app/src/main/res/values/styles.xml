@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="AppThemeBase">
+    </style>
+
+    <style name="AppThemeBase" parent="Theme.AppCompat.Light">
+        <!-- 去掉actionbar-->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <!-- 状态栏颜色-->
+        <item name="colorPrimaryDark">@color/material_blue_500</item>
+        <!-- actionbar颜色-->
+        <item name="colorPrimary">@color/material_blue_700</item>
+
+    </style>
+
+</resources>

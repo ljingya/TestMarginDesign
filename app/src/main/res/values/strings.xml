@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestMarginDesign</string>
+    <string name="open_layout">open</string>
+    <string name="close_layout">close</string>
+</resources>
